@@ -19,4 +19,7 @@ router.get('/submit-recipe',recipeController.submitRecipe);
 router.post('/submit-recipe',recipeController.submitRecipeOnPost);
 
 
+// router.get('/login',recipeController.login);
+
+
 module.exports = router;

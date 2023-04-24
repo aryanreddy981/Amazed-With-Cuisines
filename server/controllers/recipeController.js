@@ -248,6 +248,15 @@ exports.submitRecipe = async(req, res) => {
 
 
 
+
+  // Login
+  // exports.Login = async(req, res) => {
+ 
+  //   res.render('login', { title: 'Cooking Blog - Login'  } );
+  // }
+
+
+
 // Delete Recipe:-
 
 // async function deleteRecipe(){
